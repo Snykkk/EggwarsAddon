@@ -1,0 +1,8 @@
+name: EggwarsAddon
+version: 1.0
+main: mcf.eggwars.FMain
+author: Snykkk
+softdepend: [Eggwars]
+commands:
+ bw:
+ tb:
