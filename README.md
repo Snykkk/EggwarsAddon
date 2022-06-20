@@ -1,0 +1,2 @@
+# EggwarsAddon
+ Eggwars addon plugin
